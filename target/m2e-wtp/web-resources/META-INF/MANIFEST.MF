@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Built-By: Bhanu-PC
+Build-Jdk: 15.0.2
+Implementation-Title: LearnSpringMVCWithRealApps
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: ReportGenerator
+Implementation-Vendor: Pivotal Software, Inc.
+Implementation-URL: http://projects.spring.io/spring-boot/ReportGenerato
+ r/
+Created-By: Maven Integration for Eclipse
+
